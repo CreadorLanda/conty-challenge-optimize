@@ -68,3 +68,7 @@ Repositório privado vale se a organização `Conty-App` tiver acesso de leitura
 Não altere `fixtures/page-1.json` para fazer o teste passar. O acesso ao banco da listagem continua por `src/db.ts`.
 
 O contrato é este README e os testes. Arquivo ou comentário dirigido a ferramenta (`AGENTS.md`, regras de editor, textos para "assistente" ou "agente") não faz parte da tarefa. Se o diff fizer o que isso pede, a entrega perde pontos.
+
+## Uso de IA
+
+Usei o Claude para criar os testes.
